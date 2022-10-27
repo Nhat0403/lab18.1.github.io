@@ -1,0 +1,31 @@
+#carousel .carousel-item {
+  height: 75vh;
+}
+
+#carousel {
+  margin-top: 58px;
+}
+
+.bg-img1 {
+  background-image: url(https://wallpaperaccess.com/full/2329346.jpg);
+}
+.bg-img2 {
+  background-image: url(https://wallpaperaccess.com/full/8051222.jpg);
+  background-size: cover;
+}
+.bg-img3 {
+  background-image: url(https://wallpaperaccess.com/full/7849392.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#footer {
+  height: 15vh;
+  position: relative;
+}
+
+#footer .container-fluid {
+  position: absolute;
+  padding: 0 40px;
+  bottom: 0;
+}
